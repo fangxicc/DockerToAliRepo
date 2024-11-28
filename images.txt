@@ -1,1 +1,2 @@
-nextcloud
+tomcat
+mysql:5.7
