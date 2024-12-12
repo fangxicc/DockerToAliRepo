@@ -1,1 +1,1 @@
-keking/kkfileview:4.4.0-beta
+nginx:1.24.0
