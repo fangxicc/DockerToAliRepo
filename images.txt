@@ -1,1 +1,3 @@
-elasticsearch:7.3.0
+mariadb:10.6
+kodcloud/kodbox
+redis:alpine
