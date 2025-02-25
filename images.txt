@@ -1,1 +1,3 @@
-homeassistant/home-assistant:latest
+busybox:latest
+jimmidyson/configmap-reload:v0.1
+prom/prometheus:v2.2.1
