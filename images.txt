@@ -1,2 +1,1 @@
-xprobe/xinference:latest-gpu
 xprobe/xinference:latest
