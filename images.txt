@@ -1,1 +1,2 @@
-infiniflow/ragflow:v0.17.2-slim
+xprobe/xinference:latest-gpu
+xprobe/xinference:latest
