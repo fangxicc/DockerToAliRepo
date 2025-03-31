@@ -1,1 +1,1 @@
-intel/openvino-ubuntu20:2023.0.0
+pytorch/pytorch:2.1.0-cpu
