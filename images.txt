@@ -1,1 +1,2 @@
-infiniflow/ragflow:v0.17.2
+hipi-trace-mysql
+redis:5.0.7
