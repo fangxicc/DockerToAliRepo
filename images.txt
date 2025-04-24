@@ -1,1 +1,1 @@
-docker.elastic.co/eck/eck-operator:3.0.0
+apache/skywalking-oap-server:9.4.0
