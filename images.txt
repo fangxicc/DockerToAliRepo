@@ -1,1 +1,1 @@
-docker.elastic.co/eck/eck-operator:2.14.0
+docker.elastic.co/eck/eck-operator:3.0.0
