@@ -1,4 +1,4 @@
-docker.io/kubernetesui/dashboard-auth
-docker.io/kubernetesui/dashboard-api
-docker.io/kubernetesui/dashboard-web
-docker.io/kubernetesui/dashboard-metrics-scraper
+ docker.io/kubernetesui/dashboard-api:v1.12.0
+	 docker.io/kubernetesui/dashboard-web:v1.6.2
+	 docker.io/kubernetesui/dashboard-metrics-scraper:v1.2.2
+	 docker.io/kubernetesui/dashboard-auth:v1.2.4
