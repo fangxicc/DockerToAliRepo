@@ -1,1 +1,1 @@
-apache/rocketmq:5.1.1
+redis-mc:6.0.16
