@@ -1,1 +1,1 @@
-redis-mc:6.0.16
+rancher/rancher-agent:v2.6.9
