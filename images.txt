@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.6.9
+apache/rocketmq-dashboard
