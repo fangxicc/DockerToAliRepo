@@ -1,7 +1,6 @@
-grafana/fluent-bit-plugin-loki:2.1.0-amd64
-curlimages/curl:7.85.0
-busybox:1.31.1
-quay.io/kiwigrid/k8s-sidecar:1.19.2
-grafana/grafana-image-renderer:latest
-bats/bats:v1.4.1
-curlimages/curl:7.85.0
+docker.elastic.co/logstash/logstash:7.17.3
+grafana/loki:2.6.1
+jimmidyson/configmap-reload:v0.8.0
+quay.io/prometheus/prometheus
+grafana/promtail
+jimmidyson/configmap-reload:v0.8.0
