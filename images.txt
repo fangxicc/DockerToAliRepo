@@ -1,1 +1,1 @@
-ghcr.io/fluent/fluent-operator/fluent-bit:2.2.2
+fluent-bit:2.2.2
