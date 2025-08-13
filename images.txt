@@ -1,6 +1,1 @@
-docker.elastic.co/logstash/logstash:7.17.3
-grafana/loki:2.6.1
-jimmidyson/configmap-reload:v0.8.0
-quay.io/prometheus/prometheus
-grafana/promtail
-jimmidyson/configmap-reload:v0.8.0
+grafana/promtail:2.9.3
