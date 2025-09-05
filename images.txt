@@ -1,1 +1,4 @@
-idobry/chartmuseum-ui:latest
+bitnami/minideb:buster
+bitnami/mysqld-exporter:0.12.1-debian-10-r27
+dduportal/bats:0.4.0
+bitnami/mariadb:10.3.22-debian-10-r27
