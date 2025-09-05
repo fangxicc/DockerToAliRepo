@@ -1,1 +1,1 @@
-chartmuseum/chartmuseum:latest
+idobry/chartmuseum-ui:latest
