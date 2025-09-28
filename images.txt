@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.9.3-debian-12-r21
+aquasec/kube-bench:v0.12.0
