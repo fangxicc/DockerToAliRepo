@@ -1,3 +1,12 @@
-langgenius/dify-api:1.11.2
-langgenius/dify-plugin-daemon:0.5.2-local
-langgenius/dify-web:1.11.2
+busybox:latest
+certbot/certbot
+container-registry.oracle.com/database/free:latest
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
+nginx:latest
+oceanbase/seekdb:latest
+opensearchproject/opensearch-dashboards:latest
+opensearchproject/opensearch:latest
+pgvector/pgvector:pg16
+postgres:15-alpine
+ubuntu/squid:latest
+vastdata/vastbase-vector
