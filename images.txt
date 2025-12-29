@@ -1,7 +1,3 @@
-busybox:latest
-certbot/certbot
-container-registry.oracle.com/database/free:latest
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
 nginx:latest
 oceanbase/seekdb:latest
 opensearchproject/opensearch-dashboards:latest
