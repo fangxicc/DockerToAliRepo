@@ -1,8 +1,1 @@
-nginx:latest
-oceanbase/seekdb:latest
-opensearchproject/opensearch-dashboards:latest
-opensearchproject/opensearch:latest
-pgvector/pgvector:pg16
-postgres:15-alpine
-ubuntu/squid:latest
-vastdata/vastbase-vector
+ubuntu:24.04
