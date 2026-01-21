@@ -1,1 +1,1 @@
-keking/kkfileview-base:4.4.0
+quay.io/prometheus-operator/admission-webhook:v0.88.0
