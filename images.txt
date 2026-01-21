@@ -1,1 +1,5 @@
-quay.io/prometheus-operator/admission-webhook:v0.88.0
+ghcr.io/jkroepke/kube-webhook-certgen:1.7.4
+quay.io/prometheus-operator/prometheus-operator:v0.88.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.88.0
+quay.io/thanos/thanos:v0.40.1
+quay.io/prometheus/prometheus:v3.9.1
