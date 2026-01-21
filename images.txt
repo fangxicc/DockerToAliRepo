@@ -1,1 +1,5 @@
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
+docker.io/grafana/grafana:12.3.1
+docker.io/bats/bats:v1.4.1
+docker.io/curlimages/curl:8.9.1
+docker.io/library/busybox:1.31.1
+quay.io/kiwigrid/k8s-sidecar:2.2.1
