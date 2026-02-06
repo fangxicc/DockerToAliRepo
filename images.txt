@@ -1,1 +1,4 @@
-quay.io/prometheus/alertmanager:v0.30.1
+langgenius/dify-api:1.12.1
+langgenius/dify-plugin-daemon:0.5.3-local
+langgenius/dify-web:1.12.1
+milvusdb/milvus:v2.6.3
