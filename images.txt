@@ -1,4 +1,7 @@
-langgenius/dify-api:1.12.1
-langgenius/dify-plugin-daemon:0.5.3-local
-langgenius/dify-web:1.12.1
-milvusdb/milvus:v2.6.3
+registry.k8s.io/sig-storage/nfsplugin:v4.13.1
+registry.k8s.io/sig-storage/csi-provisioner:v4.13.1
+registry.k8s.io/sig-storage/csi-resizer:v4.13.1
+registry.k8s.io/sig-storage/csi-snapshotter:v4.13.1
+registry.k8s.io/sig-storage/livenessprobe:v4.13.1
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v4.13.1
+registry.k8s.io/sig-storage/snapshot-controller:v4.13.1
