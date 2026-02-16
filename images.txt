@@ -1,7 +1,4 @@
-registry.k8s.io/sig-storage/nfsplugin:v4.13.1
-registry.k8s.io/sig-storage/csi-provisioner:v6.1.0
-registry.k8s.io/sig-storage/csi-resizer:v2.0.0
-registry.k8s.io/sig-storage/csi-snapshotter:v8.4.0
-registry.k8s.io/sig-storage/livenessprobe:v2.17.0
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.15.0
-registry.k8s.io/sig-storage/snapshot-controller:v8.4.0
+bitnami/redis-cluster:8.2.1-debian-12-r0
+bitnami/os-shell:12-debian-12-r51
+bitnami/redis-exporter:1.76.0-debian-12-r0
+bitnami/os-shell:12-debian-12-r51
