@@ -1,1 +1,4 @@
-bitnami/redis-cluster:8.2.1-debian-12-r0
+bitnamilegacy/redis-cluster:8.2.1-debian-12-r0
+bitnamilegacy/os-shell:12-debian-12-r51
+bitnamilegacy/redis-exporter:1.76.0-debian-12-r0
+bitnamilegacy/os-shell:12-debian-12-r51
