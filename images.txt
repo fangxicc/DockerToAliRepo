@@ -1,1 +1,1 @@
-python:3.9-slim
+ghcr.io/openclaw/openclaw:latest
