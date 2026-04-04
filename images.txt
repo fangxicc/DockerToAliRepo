@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:2026.4.2
+docker.litellm.ai/berriai/litellm:main-stable
