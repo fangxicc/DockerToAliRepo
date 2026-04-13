@@ -1,1 +1,1 @@
-harness/harness
+nousresearch/hermes-agent:latest
