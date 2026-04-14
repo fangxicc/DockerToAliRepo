@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:latest
+node:20-alpine
