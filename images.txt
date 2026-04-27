@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:v2026.4.23
+postgres:16-alpine
