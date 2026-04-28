@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+k3scat/nya-proxy:latest
