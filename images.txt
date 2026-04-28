@@ -1,1 +1,3 @@
-k3scat/nya-proxy:latest
+ghcr.io/mgdaaslab/wharttest-mcp:latest
+ghcr.io/mgdaaslab/wharttest-backend:latest
+ghcr.io/mgdaaslab/wharttest-frontend:latest
