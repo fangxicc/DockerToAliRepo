@@ -1,3 +1,2 @@
-ghcr.io/mgdaaslab/wharttest-mcp:latest
-ghcr.io/mgdaaslab/wharttest-backend:latest
-ghcr.io/mgdaaslab/wharttest-frontend:latest
+redis:7-alpine
+qdrant/qdrant:latest
