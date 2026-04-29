@@ -1,2 +1,1 @@
-redis:7-alpine
-qdrant/qdrant:latest
+node:22-alpine
