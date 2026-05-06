@@ -1,1 +1,1 @@
-ghcr.io/vectorize-io/hindsight:latest
+hermes-agent:v2026.4.30
