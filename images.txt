@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/mgdaaslab/wharttest-backend:latest
+ghcr.io/mgdaaslab/wharttest-backend:latest
