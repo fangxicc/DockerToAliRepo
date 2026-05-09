@@ -1,7 +1,1 @@
 --platform=linux/arm64 ghcr.io/mgdaaslab/wharttest-backend:latest
---platform=linux/arm64 ghcr.io/mgdaaslab/wharttest-frontend:latest
---platform=linux/arm64 ghcr.io/mgdaaslab/wharttest-mcp:latest
---platform=linux/arm64 node:22-alpine
---platform=linux/arm64 postgres:16-alpine
---platform=linux/arm64 redis:7-alpine
---platform=linux/arm64 qdrant/qdrant:latest
