@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ARM 架构镜像
 --platform=linux/arm64 ghcr.io/mgdaaslab/wharttest-backend:latest
 --platform=linux/arm64 ghcr.io/mgdaaslab/wharttest-frontend:latest
@@ -6,3 +7,6 @@
 --platform=linux/arm64 postgres:16-alpine
 --platform=linux/arm64 redis:7-alpine
 --platform=linux/arm64 qdrant/qdrant:latest
+=======
+ghcr.io/mgdaaslab/wharttest-backend:latest
+>>>>>>> c0de4cf0661e54200d490fe075049ff9bcc02f95

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m 'Add QEMU support for ARM64 cross-platform image pull *)",
+      "Bash(git push *)"
+    ]
+  }
+}
