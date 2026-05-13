@@ -1,1 +1,1 @@
-xprobe/xinference:latest-cpu
+nousresearch/hermes-agent:v2026.5.7
