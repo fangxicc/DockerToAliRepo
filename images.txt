@@ -1,6 +1,4 @@
-langgenius/dify-api:1.14.1
-langgenius/dify-plugin-daemon:0.6.0-local
-langgenius/dify-sandbox:0.2.15
-langgenius/dify-web:1.14.1
-nginx:latest
-ubuntu/squid:latest
+ghcr.io/mgdaaslab/wharttest-backend:latest
+ghcr.io/mgdaaslab/wharttest-frontend:latest
+ghcr.io/mgdaaslab/wharttest-mcp:latest
+qdrant/qdrant:latest
