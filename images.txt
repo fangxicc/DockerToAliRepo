@@ -1,4 +1,1 @@
-ghcr.io/mgdaaslab/wharttest-backend:latest
-ghcr.io/mgdaaslab/wharttest-frontend:latest
-ghcr.io/mgdaaslab/wharttest-mcp:latest
-qdrant/qdrant:latest
+calciumion/new-api:latest
