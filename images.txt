@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+langgenius/dify-sandbox:0.2.15
