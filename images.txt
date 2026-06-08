@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.15
+langgenius/dify-plugin-daemon:0.6.1-local
