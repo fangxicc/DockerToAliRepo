@@ -1,1 +1,1 @@
-mcr.microsoft.com/playwright/mcp:latest
+ghcr.io/mgdaaslab/wharttest-backend:v2.4.1
