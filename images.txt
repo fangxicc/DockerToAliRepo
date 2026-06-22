@@ -1,1 +1,1 @@
-ghcr.io/mgdaaslab/wharttest-backend:v2.4.1
+ghcr.io/mgdaaslab/wharttest-backend:2.4.1
