@@ -1,1 +1,4 @@
-nousresearch/hermes-agent:v2026.6.5
+ghcr.io/mgdaaslab/wharttest-backend:latest
+ghcr.io/mgdaaslab/wharttest-frontend:latest
+ghcr.io/mgdaaslab/wharttest-mcp:latest
+qdrant/qdrant:latest
