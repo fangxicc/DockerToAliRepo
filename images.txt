@@ -1,4 +1,2 @@
-ghcr.io/mgdaaslab/wharttest-backend:latest
-ghcr.io/mgdaaslab/wharttest-frontend:latest
-ghcr.io/mgdaaslab/wharttest-mcp:latest
-qdrant/qdrant:latest
+docker.io/bitnami/redis:7.2.4-debian-12-r13
+docker.io/bitnami/postgresql:16.3.0-debian-12-r4
