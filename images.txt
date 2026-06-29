@@ -1,2 +1,1 @@
-rancher/mirrored-bcrypt:latest
 rancher/fleet-agent:v0.15.2
