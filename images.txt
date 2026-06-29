@@ -1,1 +1,3 @@
-rancher/rancher-webhook:v0.10.6
+rancher/fleet:v0.15.2
+kuberlr-kubectl:v7.0.3
+rancher/turtles:v0.26.2
