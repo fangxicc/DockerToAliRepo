@@ -1,1 +1,3 @@
-rancher/cluster-api-controller:v1.12.7
+ghcr.io/mgdaaslab/wharttest-backend:latest
+ghcr.io/mgdaaslab/wharttest-frontend:latest
+ghcr.io/mgdaaslab/wharttest-mcp:latest
