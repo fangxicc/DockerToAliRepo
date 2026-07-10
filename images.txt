@@ -1,3 +1,1 @@
-ghcr.io/mgdaaslab/wharttest-backend:latest
-ghcr.io/mgdaaslab/wharttest-frontend:latest
-ghcr.io/mgdaaslab/wharttest-mcp:latest
+python:3.12-slim
