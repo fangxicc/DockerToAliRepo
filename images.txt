@@ -1,1 +1,1 @@
-python:3.12-slim
+private-registry.rootcloud.com/devops/openjdk:8-jre
