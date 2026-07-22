@@ -1,1 +1,1 @@
-rancher/rancher:stable
+rancher/system-upgrade-controller:v0.19.1
