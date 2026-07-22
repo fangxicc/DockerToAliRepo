@@ -1,1 +1,1 @@
-private-registry.rootcloud.com/devops/openjdk:8-jre
+rancher/rancher:latest
