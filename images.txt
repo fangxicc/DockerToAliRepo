@@ -1,1 +1,5 @@
-docker.io/rancher/hardened-flannel:v0.28.5-build20260604
+quay.io/jetstack/cert-manager-controller:v1.21.0
+quay.io/jetstack/cert-manager-cainjector:v1.21.0
+quay.io/jetstack/cert-manager-webhook:v1.21.0
+quay.io/jetstack/cert-manager-acmesolver:v1.21.0
+quay.io/jetstack/cert-manager-startupapicheck:v1.21.0
