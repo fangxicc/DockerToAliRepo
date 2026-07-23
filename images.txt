@@ -1,1 +1,1 @@
-rancher/system-upgrade-controller:v0.19.1
+hardened-calico:v3.32.0-build20260604
