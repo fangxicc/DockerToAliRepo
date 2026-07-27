@@ -1,1 +1,1 @@
-harbor.gujing.cn:8443/library/paddlepaddle/paddleocr:2.9-cpu
+paddlepaddle/paddleocr:3.7-cpu
