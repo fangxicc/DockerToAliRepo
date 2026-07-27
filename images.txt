@@ -1,1 +1,1 @@
-paddlepaddle/paddleocr:3.7-cpu
+paddlepaddle/paddleocr:latest
