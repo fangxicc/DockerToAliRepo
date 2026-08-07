@@ -1,1 +1,1 @@
-nginx:1.27.2-alpine
+docker.io/rancher/klipper-helm:v0.11.1-build20260615
