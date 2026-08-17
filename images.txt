@@ -1,3 +1,1 @@
-langgenius/dify-api:1.16.1
-langgenius/dify-plugin-daemon:0.6.10-local
-langgenius/dify-web:1.16.1
+langgenius/dify-agent-local-sandbox:1.16.1
