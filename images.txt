@@ -1,1 +1,1 @@
-langgenius/dify-agent-local-sandbox:1.16.1
+langgenius/dify-agent-backend:1.16.1
