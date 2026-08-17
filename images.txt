@@ -1,1 +1,1 @@
-langgenius/dify-agent-backend:1.16.1
+cloudnative-pg/postgresql:15
