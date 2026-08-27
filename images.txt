@@ -1,1 +1,1 @@
-ghcr.io/cloudnative-pg/postgresql:15-standard-trixie
+quay.io/argoproj/argocd:v3.5.1
