@@ -1,1 +1,3 @@
-quay.io/argoproj/argocd:v3.5.1
+ghcr.io/dexidp/dex:v2.45.0
+public.ecr.aws/docker/library/redis:8.2.3-alpine
+public.ecr.aws/docker/library/haproxy:3.0.8-alpine
