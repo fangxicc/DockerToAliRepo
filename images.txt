@@ -1,1 +1,1 @@
-searxng/searxng
+eclipse-temurin:11-jre
