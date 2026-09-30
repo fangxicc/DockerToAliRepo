@@ -1,1 +1,2 @@
-eclipse-temurin:11-jre
+container-registry.oracle.com/mysql/community-operator:26.7.0
+container-registry.oracle.com/mysql/mysql-server:26.7.0
