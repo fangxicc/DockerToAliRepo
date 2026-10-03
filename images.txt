@@ -1,5 +1,1 @@
-percona/percona-xtradb-cluster-operator:1.20.0
-percona/percona-xtradb-cluster:8.4.8-8.1
-percona/haproxy:2.8.18-1
-percona/percona-xtrabackup:8.4.0-5.1
-percona/fluentbit:5.0.6-1
+quay.io/opstree/redis-operator:v0.26.0
