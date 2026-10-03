@@ -1,2 +1,5 @@
-container-registry.oracle.com/mysql/community-operator:26.7.0
-container-registry.oracle.com/mysql/mysql-server:26.7.0
+percona/percona-xtradb-cluster-operator:1.20.0
+percona/percona-xtradb-cluster:8.4.8-8.1
+percona/haproxy:2.8.18-1
+percona/percona-xtrabackup:8.4.0-5.1
+percona/fluentbit:5.0.6-1
