@@ -1,2 +1,2 @@
-gcr.io/kaniko-project/executor:v1.24.0
-registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v16.11.0
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v19.5.0
+registry.gitlab.com/gitlab-org/gitlab-runner-helper:alpine-x86_64-v19.5.0
