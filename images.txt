@@ -1,1 +1,2 @@
-quay.io/opstree/redis-sentinel:v7.0.15
+gcr.io/kaniko-project/executor:v1.24.0
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v16.11.0
