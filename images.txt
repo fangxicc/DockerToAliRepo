@@ -1,2 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v19.5.0
-registry.gitlab.com/gitlab-org/gitlab-runner-helper:alpine-x86_64-v19.5.0
+registry.gitlab.com/gitlab-org/gitlab-runner-helper:x86_64-v19.5.0
