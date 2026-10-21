@@ -1,1 +1,1 @@
-gcr.io/kaniko-project/executor:debug
+quay.io/argoproj/argocd-image-updater:v0.14.0
