@@ -1,1 +1,15 @@
-argoprojlabs/argocd-image-updater:v0.11.3
+cr.weaviate.io/semitechnologies/weaviate:1.27.27
+cr.weaviate.io/semitechnologies/weaviate:1.28.16
+cr.weaviate.io/semitechnologies/weaviate:1.29.11
+cr.weaviate.io/semitechnologies/weaviate:1.30.23
+cr.weaviate.io/semitechnologies/weaviate:1.31.22
+cr.weaviate.io/semitechnologies/weaviate:1.32.27
+cr.weaviate.io/semitechnologies/weaviate:1.33.18
+cr.weaviate.io/semitechnologies/weaviate:1.34.20
+cr.weaviate.io/semitechnologies/weaviate:1.35.23
+cr.weaviate.io/semitechnologies/weaviate:1.36.23
+cr.weaviate.io/semitechnologies/weaviate:1.37.16
+cr.weaviate.io/semitechnologies/weaviate:1.38.14
+cr.weaviate.io/semitechnologies/weaviate:1.39.2
+langgenius/dify-api:1.17.1
+langgenius/dify-web:1.17.1
