@@ -1,2 +1,1 @@
-langgenius/dify-agent-backend:1.17.1
-langgenius/dify-agent-local-sandbox:1.17.1
+vllm/vllm-openai:v0.19.1
