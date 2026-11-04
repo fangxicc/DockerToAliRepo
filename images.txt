@@ -1,2 +1,1 @@
-quay.io/ascend/vllm-ascend:v0.21.0rc1-310p-openeuler
-quay.io/ascend/vllm-ascend:v0.21.0rc1-310p
+vllm/vllm-openai:qwen38-flash-next
