@@ -1,1 +1,1 @@
-approachingai/ktransformers:DSV4-specific
+vllm/vllm-openai:nightly-385dce36b
