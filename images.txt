@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly-385dce36b
+cstechdev/vllm:glm53-flash-nope-sm120-cu130-20260826-r1
