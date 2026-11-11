@@ -1,1 +1,1 @@
-vllm/vllm-openai:qwen38-x86_64-cu130
+quay.io/ascend/vllm-ascend@sha256:7859b75177884252d2b703eff727831ccab4e33a8bde0a9b4ac7563facc98b33
