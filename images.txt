@@ -1,1 +1,1 @@
-ngpitt/vllm:0.32.0-sm120-cu130
+alpine/git:2.45
