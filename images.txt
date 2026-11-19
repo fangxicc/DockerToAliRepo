@@ -1,1 +1,7 @@
-alpine/git:v2.54.1
+langgenius/dify-api:1.20.0
+langgenius/dify-web:1.20.0
+langgenius/dify-agent-backend:1.20.0
+langgenius/dify-agent-local-sandbox:1.20.0
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-plugin-daemon:0.6.15-local
+cr.weaviate.io/semitechnologies/weaviate:1.39.13
